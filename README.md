@@ -1,6 +1,6 @@
 # Hi, I'm Strahinja (he/him)
 
-⚡[My Portfolio] (https://www.zlatanovics.com)
+⚡[My Portfolio](https://www.zlatanovics.com)
 
 ### ABOUT ME
   💻 I am a Full-Stack Developer, with a strong passion and desire to learn.
@@ -10,5 +10,5 @@
 
 ### CONTACT ME
   I'm always open to new collaborations. Contact me so we can create something amazing together:) .
-  🔗 [LinkedIn] (https://www.linkedin.com/in/strahinja-zlatanovic-91150729b/)
+  🔗 [LinkedIn](https://www.linkedin.com/in/strahinja-zlatanovic-91150729b/)
   📧 office@zlatanovics.com
