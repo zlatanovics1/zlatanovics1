@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Strahinja (he/him)
 
-<!--
-**zlatanovics1/zlatanovics1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡[My Portfolio] (https://www.zlatanovics.com)
 
-Here are some ideas to get you started:
+### ABOUT ME
+  💻 I am a Full-Stack Developer, with a strong passion and desire to learn.
+  🌱 I’m currently learning advanced topics of NodeJS and backend development in general.
+  ⏲ When I'm free, I try to dive into more serious topics of data structures and algorithms 😁.
+  🎯 I wrote my first line of code at the age of 12 🤓. That's when my longing for more knowledge started, and I don't think it will burn out any sooner:).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CONTACT ME
+  I'm always open to new collaborations. Contact me so we can create something amazing together:) .
+  🔗 [LinkedIn] (https://www.linkedin.com/in/strahinja-zlatanovic-91150729b/)
+  📧 office@zlatanovics.com
