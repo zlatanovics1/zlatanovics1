@@ -1,4 +1,4 @@
-# Hi, I'm Strahinja (he/him)
+![Header](./github-header-image.png)
 
 ⚡[My Portfolio](https://www.zlatanovics.com)
 
