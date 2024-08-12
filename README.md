@@ -28,7 +28,7 @@
 <br/><br/>
 ### CONTACT ME
   &nbsp;&nbsp;I'm always open to new collaborations and  bringing ideas to life.<br/><br/> 
-  &nbsp;  👇 Let's create **<Something amazing /\>** together, today. <br/><br/>
+  &nbsp;  👇 Let's create **<Something awesome /\>** together, today. <br/><br/>
   🔗 [LinkedIn](https://www.linkedin.com/in/strahinja-zlatanovic-91150729b/) &nbsp;&nbsp;
   📧 office@zlatanovics.com &nbsp;&nbsp;
   🌐 [zlatanovics.com](https://www.zlatanovics.com)
